@@ -1,25 +1,25 @@
 # oai-skills dependencies
 
 ## CLI / system tools
-- LibreOffice `soffice`
-- Poppler `pdftoppm`
-- Granola CLI (`granola-cli`)
+- LibreOffice `soffice` (public)
+- Poppler `pdftoppm` (public)
+- Granola CLI (`granola-cli`) (internal/unknown)
 
 ## Python packages (required)
-- `python-docx`
-- `pdf2image`
-- `reportlab`
-- `pdfplumber`
-- `artifact_tool`
-- `openpyxl`
-- `pandas`
+- `python-docx` (public)
+- `pdf2image` (public)
+- `reportlab` (public)
+- `pdfplumber` (public)
+- `artifact_tool` (internal/unknown)
+- `openpyxl` (public)
+- `pandas` (public)
 
 ## Python packages (optional)
-- `pypdf`
-- `PyMuPDF`
+- `pypdf` (public)
+- `PyMuPDF` (public)
 
 ## Internal / proprietary SDKs
-- `oaiproto.coworker.*`
+- `oaiproto.coworker.*` (internal/unknown)
 
 ## Purpose summary
 - `soffice`: convert DOCX to PDF for rendering and inspection.

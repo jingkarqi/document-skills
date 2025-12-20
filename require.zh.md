@@ -1,25 +1,25 @@
 # oai-skills 依赖清单
 
 ## CLI / 系统工具
-- LibreOffice `soffice`
-- Poppler `pdftoppm`
-- Granola CLI（`granola-cli`）
+- LibreOffice `soffice`（公开可获取）
+- Poppler `pdftoppm`（公开可获取）
+- Granola CLI（`granola-cli`）（内部/未知）
 
 ## Python 包（必需）
-- `python-docx`
-- `pdf2image`
-- `reportlab`
-- `pdfplumber`
-- `artifact_tool`
-- `openpyxl`
-- `pandas`
+- `python-docx`（公开可获取）
+- `pdf2image`（公开可获取）
+- `reportlab`（公开可获取）
+- `pdfplumber`（公开可获取）
+- `artifact_tool`（内部/未知）
+- `openpyxl`（公开可获取）
+- `pandas`（公开可获取）
 
 ## Python 包（可选）
-- `pypdf`
-- `PyMuPDF`
+- `pypdf`（公开可获取）
+- `PyMuPDF`（公开可获取）
 
 ## 内部 / 专有 SDK
-- `oaiproto.coworker.*`
+- `oaiproto.coworker.*`（内部/未知）
 
 ## 用途说明（简要）
 - `soffice`：将 DOCX 转为 PDF，便于渲染与目检。
