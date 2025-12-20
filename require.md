@@ -1,5 +1,7 @@
 # oai-skills dependencies
 
+中文版本：[require.zh.md](require.zh.md)
+
 ## CLI / system tools
 
 - LibreOffice `soffice` (public)
