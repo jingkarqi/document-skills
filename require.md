@@ -1,6 +1,6 @@
 # oai-skills dependencies
 
-中文版本：[require.zh.md](require.zh.md)
+中文版本：[require_zh.md](require_zh.md)
 
 ## CLI / system tools
 
